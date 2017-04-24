@@ -66,10 +66,15 @@ h1
 
 
 .sec1{
-	background-color: yellow
-}
+ font-family: sans-serif;
+	height: 150px;
+  alignment-baseline: 1px;}
 .sec2{
-	background-color: #ddf
-}
-.sec3{	background-color: #423854
+ font-family: sans-serif;
+	height: 150px;
+  alignment-baseline: 1px;}
+.sec3{	
+	 font-family: sans-serif;
+	height: 150px;
+  alignment-baseline: 1px;
 }
