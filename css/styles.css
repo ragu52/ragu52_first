@@ -84,7 +84,7 @@ text-orientation: : left;
 }
 .sensex-section{
   float:left;
-  
+   padding-left: 10px;
   font-family: sans-serif;
   
 
